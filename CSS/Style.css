@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box
+}
+
+.block {
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    border: 1px solid #000;
+
+    padding: 40px;
+    }
+
+    .block-4 {
+        position: fixed;
+        bottom: 20px;
+        border: 1px solid blue;
+        background: red;
+    }
